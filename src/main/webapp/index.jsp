@@ -41,7 +41,7 @@ body {
   <img src="pacman.jpg" style="width:30%">
   <img src="infinity_mario.jpg" style="width:30%">
   <img src="mario_image.jpg" style="width:30%">
-  <img src="tetris.jpg" style="width:30%">
+  <img src="Tetris.jpg" style="width:30%">
   <img src="wolf_3d.jpg" style="width:30%">
   <img src="tic_tac_toe.jpg" style="width:30%">
 
