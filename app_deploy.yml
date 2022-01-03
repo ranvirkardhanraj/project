@@ -8,4 +8,4 @@
   - name: 'Creating deployment'
     command: 'kubectl create deployment myapp --image=dhanrajranvirkar/myapp:"{{ docker_tag }}"'
   - name: 'Creating service of type NodePort'
-    command: 'kubectl expose deployment myapp --type=NodePort --target-port=80 --port=80'
+    command: 'kubectl expose deployment myapp --type=NodePort --target-port=8080 --port=80'
