@@ -38,12 +38,12 @@ body {
 
 <div class="row"> 
   <div class="column">
-  <img src="pacman.jpg" style="width:30%">
-  <img src="infinity_mario.jpg" style="width:30%">
-  <img src="mario_image.jpg" style="width:30%">
-  <img src="Tetris.jpg" style="width:30%">
-  <img src="wolf_3d.jpg" style="width:30%">
-  <img src="tic_tac_toe.jpg" style="width:30%">
+  <img src="pacman.jpg" alt="Pacman" style="width:30%">
+  <img src="infinity_mario.jpg" alt="Infinity Mario" style="width:30%">
+  <img src="mario_image.jpg" alt="Super Mario" style="width:30%">
+  <img src="Tetris.jpg" alt="Tetris" style="width:30%">
+  <img src="wolf_3d.jpg" alt="Wolf 3D" style="width:30%">
+  <img src="tic_tac_toe.jpg" alt="Tic Tac Toe" style="width:30%">
 
   </dev>
 
