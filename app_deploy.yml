@@ -5,6 +5,8 @@
   user: root
   ignore_errors: yes
   tasks:
+  - name: 'Deleteing old app'
+    command: 'kubectl delete deployment myapp'
   - name: 'Creating deployment'
     command: 'kubectl create deployment myapp --image=dhanrajranvirkar/myapp:"{{ docker_tag }}"'
   - name: 'Creating service of type NodePort'
